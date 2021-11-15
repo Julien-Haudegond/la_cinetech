@@ -13,6 +13,12 @@ Tous.tes les graphismes et animations ont été réalisé.e.s par [Tim](https://
 
 L'introduction, présente à chaque début de vidéo, est fortement inspirée de [cette animation](https://videohive.net/item/logo-code-hack/28445754).
 
+### Logiciels
+
+- [JSplacement](https://windmillart.net/?p=jsplacement)
+- [Adobe After Effects](https://www.adobe.com/fr/products/aftereffects.html)
+- [Adobe Audition](https://www.adobe.com/fr/products/audition.html)
+
 ### Sound Design
 
 - [Cinematic Sound Effects : Joshua Crispin aka Generdyn](https://99sounds.org/cinematic-sound-effects/)
